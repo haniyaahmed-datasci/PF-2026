@@ -16,5 +16,5 @@ Task 4
 
 Task 5
 
-<img width="410" height="221" alt="image" src="https://github.com/user-attachments/assets/840e7e8a-1f0a-437f-af3f-5a9723a35140" />
+<img width="440" height="164" alt="image" src="https://github.com/user-attachments/assets/0829d9b0-a1f1-497e-8322-2de1f81baea0" />
 
